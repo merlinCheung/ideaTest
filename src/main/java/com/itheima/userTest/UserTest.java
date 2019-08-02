@@ -7,8 +7,8 @@ package com.itheima.userTest;
 public class UserTest {
 
     public static void main(String[] args) {
-        System.out.println("hello worerrld");
-        System.out.println("11124eer22");
-        System.out.println("66666erer66");
+        System.out.println("hello world");
+        System.out.println("111222");
+        System.out.println("6666666");
     }
 }
